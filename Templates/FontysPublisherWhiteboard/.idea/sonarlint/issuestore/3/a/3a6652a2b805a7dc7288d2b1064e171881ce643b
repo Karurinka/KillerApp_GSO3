@@ -1,0 +1,7 @@
+
+™%squid:RedundantThrowsDeclarationCheck"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(Òòƒ€øÿÿÿÿ
+_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(–Í’=
+;squid:S1170"!Make this final field static too.(§Ð–Ôùÿÿÿÿ
+asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(‰µø”ÿÿÿÿÿ
+asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ë–Ž©øÿÿÿÿ
+asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Òòƒ€øÿÿÿÿ

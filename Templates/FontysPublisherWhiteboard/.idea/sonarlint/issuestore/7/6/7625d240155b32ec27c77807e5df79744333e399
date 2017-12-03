@@ -1,0 +1,13 @@
+
+Esquid:S2160"+Override the "equals" method in this class.(àãú™ýÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñØ’Å
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(®Ž¾ñûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(éŠ±šýÿÿÿÿ
+;squid:S1170"!Make this final field static too.(§Ð–Ôùÿÿÿÿ
+Bsquid:S1604"(Make this anonymous inner class a lambda(Ô™ˆîÿÿÿÿÿ
+Bsquid:S1604"(Make this anonymous inner class a lambda(Ô™ˆîÿÿÿÿÿ
+Bsquid:S1604"(Make this anonymous inner class a lambda(Ô™ˆîÿÿÿÿÿ
+Fsquid:S1948",Make "threadPool" transient or serializable.(Œíà˜øÿÿÿÿ
